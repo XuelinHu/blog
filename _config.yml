@@ -1,11 +1,11 @@
-title: Deipss' blog
+title: Xuelin' blog
 description: powered by just-the-docs
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Deipss' github : https://github.com/deipss
+  Xuelin' github : https://github.com/XuelinHu
 aux_links_new_tab: true
 
 mermaid:
